@@ -3,3 +3,6 @@ project_id = "yctvqfonfotoawjdyqss"
 
 [functions.market-data]
 verify_jwt = false
+
+[functions.ict-signals]
+verify_jwt = false
