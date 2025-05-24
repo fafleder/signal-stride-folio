@@ -6,3 +6,6 @@ verify_jwt = false
 
 [functions.ict-signals]
 verify_jwt = false
+
+[functions.ict-entries]
+verify_jwt = false
